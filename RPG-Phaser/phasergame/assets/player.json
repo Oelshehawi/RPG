@@ -1,0 +1,356 @@
+{
+	"textures": [
+		{
+			"image": "player.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 242,
+				"h": 120
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "appa-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 40,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 40,
+						"h": 60
+					}
+				},
+				{
+					"filename": "appa-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 40,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 40,
+						"h": 60
+					}
+				},
+				{
+					"filename": "appa-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 40,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 63,
+						"w": 40,
+						"h": 56
+					}
+				},
+				{
+					"filename": "appa-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 40,
+						"h": 60
+					},
+					"frame": {
+						"x": 43,
+						"y": 1,
+						"w": 40,
+						"h": 60
+					}
+				},
+				{
+					"filename": "appa-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 40,
+						"h": 60
+					},
+					"frame": {
+						"x": 43,
+						"y": 1,
+						"w": 40,
+						"h": 60
+					}
+				},
+				{
+					"filename": "appa-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 40,
+						"h": 56
+					},
+					"frame": {
+						"x": 43,
+						"y": 63,
+						"w": 40,
+						"h": 56
+					}
+				},
+				{
+					"filename": "appa-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 85,
+						"y": 1,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 85,
+						"y": 1,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 85,
+						"y": 61,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 85,
+						"y": 61,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 123,
+						"y": 1,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 123,
+						"y": 61,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "appa-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 40,
+						"h": 56
+					},
+					"frame": {
+						"x": 161,
+						"y": 1,
+						"w": 40,
+						"h": 56
+					}
+				},
+				{
+					"filename": "appa-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 38,
+						"h": 56
+					},
+					"frame": {
+						"x": 203,
+						"y": 1,
+						"w": 38,
+						"h": 56
+					}
+				},
+				{
+					"filename": "appa-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 40,
+						"h": 56
+					},
+					"frame": {
+						"x": 161,
+						"y": 59,
+						"w": 40,
+						"h": 56
+					}
+				},
+				{
+					"filename": "appa-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 38,
+						"h": 56
+					},
+					"frame": {
+						"x": 203,
+						"y": 59,
+						"w": 38,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4703de2e7f61c15ef7d0c63b6fa6d019:38f67d815dd1191e923f41ef4c70cb58:86d5339b780aedd87b35e2b7c0a7e11b$"
+	}
+}
